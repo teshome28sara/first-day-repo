@@ -1,0 +1,23 @@
+.box{
+    background: #fffacd;
+}
+
+#font-1{
+    font-family: Lucida 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+#font-2{
+    font-family: Lucida 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+
+#font-3{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+#fact-1{
+    font-weight: 1000;
+} 
+#fact-2{
+    font-size: 24px;
+}
+#fact-3{
+    line-height: 50px;
+}

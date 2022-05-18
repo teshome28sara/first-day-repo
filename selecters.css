@@ -1,0 +1,26 @@
+body{
+    background-color: lightgreen;
+} 
+main{
+    background-color: darkblue;
+    height: 75px;
+}
+.text{
+    color: white;
+    text-align: center;
+}
+#contact-section{
+    background:yellowgreen;
+}  
+footer{
+    background-color: darkblue;
+    height: 100px;
+    padding-bottom: 5%;
+    text-align: center;
+}
+.font{
+    font-size: 26px;
+    font-weight: 100;
+    color: white;
+}
+
