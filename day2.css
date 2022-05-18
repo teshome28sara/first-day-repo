@@ -1,0 +1,26 @@
+.box1{
+    background: purple;
+    color: yellow;
+} 
+.box2{
+    background: blue;
+    color: orange;
+} 
+.box3{
+    background: blue;
+    color: orange;
+}
+.box4{
+    color: white;
+}
+.box5{
+    color: white;
+}  
+
+#box-yellow{
+    color: yellow;
+} 
+.container{
+    background: black;
+}
+

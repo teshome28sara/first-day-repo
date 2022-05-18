@@ -1,26 +1,19 @@
-#lesson {
-    background-color: purple;
-    color: yellow;
-  }
+.lesson {
+  background-color: lemonchiffon;
+}
 
-  .background{
-      background-color: blue;
-      color: orange;
-  }
-  
-  .title {
-    color: darkblue;
-  }
-  
-  #email {
-    background-color: goldenrod;
-  }
-  
-  #github {
-    background-color: lightsteelblue;
-  }
-  
-  #portfolio {
-    background-color: darkorange;
-  }
-  
+.title {
+  color: darkblue;
+}
+
+#email {
+  background-color: goldenrod;
+}
+
+#github {
+  background-color: lightsteelblue;
+}
+
+#portfolio {
+  background-color: darkorange;
+}
