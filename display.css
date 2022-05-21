@@ -1,0 +1,16 @@
+#bar{
+    background-color: violet;
+    height: 50px;
+    width: 100%;
+    margin: 0%;
+}  
+
+.lists{
+    color: blanchedalmond;
+    padding: 10%;
+    text-decoration: none;
+} 
+
+.box{
+    text-align: center;
+}
